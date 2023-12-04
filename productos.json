@@ -1,3 +1,4 @@
+[
 {
 nombre: 'Celular',
 detalle: 'Galaxy A04e 32GB Color Negro',
@@ -70,3 +71,4 @@ stock: '5000',
 imagen: 'parlante',
 codigo: '008',
 }
+]
