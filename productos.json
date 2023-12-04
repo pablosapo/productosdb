@@ -7,6 +7,7 @@
     "stock": "50",
     "imagen": "celular",
     "codigo": "001"
+    "imagen": "https://react.pabloszczapowy.com/imagen/celular.jpg"
   },
   {
     "nombre": "Tablet",
@@ -16,6 +17,7 @@
     "stock": "150",
     "imagen": "tablet",
     "codigo": "002"
+    "imagen": "https://react.pabloszczapowy.com/imagen/tablet.jpg"
   },
   {
     "nombre": "Audifono",
@@ -25,6 +27,7 @@
     "stock": "350",
     "imagen": "audifono",
     "codigo": "003"
+    "imagen": "https://react.pabloszczapowy.com/imagen/audifono.jpg"
   },
   {
     "nombre": "Notebook",
@@ -34,6 +37,7 @@
     "stock": "100",
     "imagen": "notebook",
     "codigo": "004"
+    "imagen": "https://react.pabloszczapowy.com/imagen/notebook.jpg"
   },
   {
     "nombre": "Reloj",
@@ -43,6 +47,7 @@
     "stock": "200",
     "imagen": "reloj",
     "codigo": "005"
+    "imagen": "https://react.pabloszczapowy.com/imagen/relo.jpg"
   },
   {
     "nombre": "Consola",
@@ -52,6 +57,7 @@
     "stock": "450",
     "imagen": "consola",
     "codigo": "006"
+    "imagen": "https://react.pabloszczapowy.com/imagen/consola.jpg"
   },
   {
     "nombre": "Asistente Virtual",
@@ -61,6 +67,7 @@
     "stock": "1000",
     "imagen": "asistente",
     "codigo": "007"
+    "imagen": "https://react.pabloszczapowy.com/imagen/asistente.jpg"
   },
   {
     "nombre": "Parlante Protable",
@@ -70,5 +77,6 @@
     "stock": "5000",
     "imagen": "parlante",
     "codigo": "008"
+    "imagen": "https://react.pabloszczapowy.com/imagen/parlante.jpg"
   }
 ]
