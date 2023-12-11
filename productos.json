@@ -9,6 +9,7 @@
       "https://react.pabloszczapowy.com/imagen/celular.jpg"
     ],
     "codigo": "001"
+    "descuento": "30%"
   },
   {
     "nombre": "Tablet",
@@ -20,6 +21,7 @@
       "https://react.pabloszczapowy.com/imagen/tablet.jpg"
     ],
     "codigo": "002"
+    "descuento": "35%"
   },
   {
     "nombre": "Audifono",
@@ -31,6 +33,7 @@
       "https://react.pabloszczapowy.com/imagen/audifono.jpg"
     ],
     "codigo": "003"
+    "descuento": "26%"
   },
   {
     "nombre": "Notebook",
@@ -42,6 +45,7 @@
       "https://react.pabloszczapowy.com/imagen/notebook.jpg"
     ],
     "codigo": "004"
+    "descuento": "25%"
   },
   {
     "nombre": "Reloj",
@@ -53,6 +57,7 @@
       "https://react.pabloszczapowy.com/imagen/reloj.jpg"
     ],
     "codigo": "005"
+    "descuento": "15%"
   },
   {
     "nombre": "Consola",
@@ -64,6 +69,7 @@
       "https://react.pabloszczapowy.com/imagen/consola.jpg"
     ],
     "codigo": "006"
+    "descuento": "40%"
   },
   {
     "nombre": "Asistente Virtual",
@@ -75,6 +81,7 @@
       "https://react.pabloszczapowy.com/imagen/asistente.jpg"
     ],
     "codigo": "007"
+    "descuento": "5%"
   },
   {
     "nombre": "Parlante Protable",
@@ -86,5 +93,6 @@
       "https://react.pabloszczapowy.com/imagen/parlante.jpg"
     ],
     "codigo": "008"
+    "descuento": "10%"
   }
 ]
