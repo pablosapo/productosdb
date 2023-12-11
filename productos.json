@@ -8,7 +8,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/celular.jpg"
     ],
-    "codigo": "001"
+    "codigo": "001",
     "descuento": "30%"
   },
   {
@@ -20,7 +20,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/tablet.jpg"
     ],
-    "codigo": "002"
+    "codigo": "002",
     "descuento": "35%"
   },
   {
@@ -32,7 +32,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/audifono.jpg"
     ],
-    "codigo": "003"
+    "codigo": "003",
     "descuento": "26%"
   },
   {
@@ -44,7 +44,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/notebook.jpg"
     ],
-    "codigo": "004"
+    "codigo": "004",
     "descuento": "25%"
   },
   {
@@ -56,7 +56,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/reloj.jpg"
     ],
-    "codigo": "005"
+    "codigo": "005",
     "descuento": "15%"
   },
   {
@@ -68,7 +68,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/consola.jpg"
     ],
-    "codigo": "006"
+    "codigo": "006",
     "descuento": "40%"
   },
   {
@@ -80,7 +80,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/asistente.jpg"
     ],
-    "codigo": "007"
+    "codigo": "007",
     "descuento": "5%"
   },
   {
@@ -92,7 +92,7 @@
     "imagenes": [
       "https://react.pabloszczapowy.com/imagen/parlante.jpg"
     ],
-    "codigo": "008"
+    "codigo": "008",
     "descuento": "10%"
   }
 ]
